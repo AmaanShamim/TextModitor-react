@@ -1,15 +1,15 @@
 {
-  "main.css": "/textmoditor-react/static/css/main.8e51d5d8.chunk.css",
-  "main.js": "/textmoditor-react/static/js/main.fe71dff6.chunk.js",
-  "main.js.map": "/textmoditor-react/static/js/main.fe71dff6.chunk.js.map",
-  "static/js/1.8a122903.chunk.js": "/textmoditor-react/static/js/1.8a122903.chunk.js",
-  "static/js/1.8a122903.chunk.js.map": "/textmoditor-react/static/js/1.8a122903.chunk.js.map",
-  "static/js/2.feef1cc2.chunk.js": "/textmoditor-react/static/js/2.feef1cc2.chunk.js",
-  "static/js/2.feef1cc2.chunk.js.map": "/textmoditor-react/static/js/2.feef1cc2.chunk.js.map",
-  "runtime~main.js": "/textmoditor-react/static/js/runtime~main.e7604cd2.js",
-  "runtime~main.js.map": "/textmoditor-react/static/js/runtime~main.e7604cd2.js.map",
-  "static/css/main.8e51d5d8.chunk.css.map": "/textmoditor-react/static/css/main.8e51d5d8.chunk.css.map",
-  "index.html": "/textmoditor-react/index.html",
-  "precache-manifest.d1247dc0bfcdd1a19d6351a61965f600.js": "/textmoditor-react/precache-manifest.d1247dc0bfcdd1a19d6351a61965f600.js",
-  "service-worker.js": "/textmoditor-react/service-worker.js"
+  "main.css": "/TextModitor-react/static/css/main.8e51d5d8.chunk.css",
+  "main.js": "/TextModitor-react/static/js/main.fe71dff6.chunk.js",
+  "main.js.map": "/TextModitor-react/static/js/main.fe71dff6.chunk.js.map",
+  "static/js/1.8a122903.chunk.js": "/TextModitor-react/static/js/1.8a122903.chunk.js",
+  "static/js/1.8a122903.chunk.js.map": "/TextModitor-react/static/js/1.8a122903.chunk.js.map",
+  "static/js/2.feef1cc2.chunk.js": "/TextModitor-react/static/js/2.feef1cc2.chunk.js",
+  "static/js/2.feef1cc2.chunk.js.map": "/TextModitor-react/static/js/2.feef1cc2.chunk.js.map",
+  "runtime~main.js": "/TextModitor-react/static/js/runtime~main.87f51ad0.js",
+  "runtime~main.js.map": "/TextModitor-react/static/js/runtime~main.87f51ad0.js.map",
+  "static/css/main.8e51d5d8.chunk.css.map": "/TextModitor-react/static/css/main.8e51d5d8.chunk.css.map",
+  "index.html": "/TextModitor-react/index.html",
+  "precache-manifest.cf3e701b6a6bfe894de1253db4c52e42.js": "/TextModitor-react/precache-manifest.cf3e701b6a6bfe894de1253db4c52e42.js",
+  "service-worker.js": "/TextModitor-react/service-worker.js"
 }
