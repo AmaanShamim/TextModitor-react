@@ -36,7 +36,7 @@ function App() {
 
   return (
     <>
-      <Router>
+      <Router basename="/textmoditor-react">
         <Navbar title="Text moditor" mode={mode} toggleMode={toggleMode} />
         <Alert alert={alert} />
         <Routes>
