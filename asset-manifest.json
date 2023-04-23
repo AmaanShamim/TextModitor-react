@@ -1,7 +1,7 @@
 {
   "main.css": "/textmoditor-react/static/css/main.8e51d5d8.chunk.css",
-  "main.js": "/textmoditor-react/static/js/main.fe71dff6.chunk.js",
-  "main.js.map": "/textmoditor-react/static/js/main.fe71dff6.chunk.js.map",
+  "main.js": "/textmoditor-react/static/js/main.3751ac2a.chunk.js",
+  "main.js.map": "/textmoditor-react/static/js/main.3751ac2a.chunk.js.map",
   "static/js/1.8a122903.chunk.js": "/textmoditor-react/static/js/1.8a122903.chunk.js",
   "static/js/1.8a122903.chunk.js.map": "/textmoditor-react/static/js/1.8a122903.chunk.js.map",
   "static/js/2.feef1cc2.chunk.js": "/textmoditor-react/static/js/2.feef1cc2.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/textmoditor-react/static/js/runtime~main.e7604cd2.js.map",
   "static/css/main.8e51d5d8.chunk.css.map": "/textmoditor-react/static/css/main.8e51d5d8.chunk.css.map",
   "index.html": "/textmoditor-react/index.html",
-  "precache-manifest.707e386e551a85f04f17e81f95b225e0.js": "/textmoditor-react/precache-manifest.707e386e551a85f04f17e81f95b225e0.js",
+  "precache-manifest.b687c55bb33d3f0bcbecf70c78644195.js": "/textmoditor-react/precache-manifest.b687c55bb33d3f0bcbecf70c78644195.js",
   "service-worker.js": "/textmoditor-react/service-worker.js"
 }
