@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/textmoditor-react/static/js/runtime~main.e7604cd2.js"
   },
   {
-    "revision": "9ad33db411588c470abd3d131acc22a1",
+    "revision": "d8f6dc5aca685d0f75ead598f3bfd968",
     "url": "/textmoditor-react/index.html"
   }
 ];
