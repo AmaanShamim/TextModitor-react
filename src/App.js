@@ -36,6 +36,7 @@ function App() {
 
   return (
     <>
+      {/*Incase using development server remove the basename attribute*/}
       <Router basename="/textmoditor-react">
         <Navbar title="Text moditor" mode={mode} toggleMode={toggleMode} />
         <Alert alert={alert} />
